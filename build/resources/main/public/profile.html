@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300"/>
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Profile</title>
+</head>
+<body>
+    <form action="/UpdateProfile" method="POST" >
+        <label>ID</label>
+        <input type="text" name="empID" id="empID" value="" readonly/>
+        <label>First Name</label>
+        <input type="text" name="firstName" id="firstName" placeholder="First Name" value="" />
+        <label>Last Name</label>
+        <input type="text" name="lastName" id="lastName" placeholder="Last Name"value="" />
+        <label>Username</label>
+        <input type="text" name="username" id="username" placeholder="Username" value="" readonly/>
+        <label>Password</label>
+        <input type="password" name="password" id="password" placeholder="Password" value=""/>
+        <button type="submit">Update Info</button>
+    </form>
+    <br>
+    <a href="/employeeHome.html">Return to Home</a>
+    <script src="js/getProfileData.js"></script>
+</body>
+</html>

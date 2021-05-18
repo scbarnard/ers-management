@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.ReimbursementDaoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:43:51" hostname="MAESTRO" time="0.044">
+  <properties/>
+  <testcase name="shouldFindRequest()" classname="test.ReimbursementDaoTest" time="0.008"/>
+  <testcase name="shouldReturnListOfRequests()" classname="test.ReimbursementDaoTest" time="0.009"/>
+  <testcase name="shouldAddRequest()" classname="test.ReimbursementDaoTest" time="0.011"/>
+  <testcase name="shouldReturnFindIterableOfRequests()" classname="test.ReimbursementDaoTest" time="0.001"/>
+  <testcase name="shouldReturnMaxRequestID()" classname="test.ReimbursementDaoTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

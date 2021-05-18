@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.LoginServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:43:51" hostname="MAESTRO" time="0.031">
+  <properties/>
+  <testcase name="shouldReturnOneForEmployee()" classname="test.LoginServiceTest" time="0.01"/>
+  <testcase name="shouldReturnZeroForManager()" classname="test.LoginServiceTest" time="0.005"/>
+  <testcase name="shouldReturnNegativeOneForUserNotFound()" classname="test.LoginServiceTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.ApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:43:50" hostname="MAESTRO" time="0.268">
+  <properties/>
+  <testcase name="shouldExit()" classname="test.ApplicationTest" time="0.038"/>
+  <testcase name="shoudldDoRun()" classname="test.ApplicationTest" time="0.229"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (io.javalin.Javalin).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

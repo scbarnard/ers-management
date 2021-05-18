@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.EmployeeDaoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:43:51" hostname="MAESTRO" time="0.2">
+  <properties/>
+  <testcase name="shouldDeleteEmployeeFromMongoDB()" classname="test.EmployeeDaoTest" time="0.136"/>
+  <testcase name="shouldReturnEmployeeByUsername()" classname="test.EmployeeDaoTest" time="0.007"/>
+  <testcase name="shouldFindEmployee()" classname="test.EmployeeDaoTest" time="0.007"/>
+  <testcase name="shouldAddEmployeeToDB()" classname="test.EmployeeDaoTest" time="0.012"/>
+  <testcase name="shouldReturnEmployeeCollection()" classname="test.EmployeeDaoTest" time="0.002"/>
+  <testcase name="shouldReturnAnEmployee()" classname="test.EmployeeDaoTest" time="0.006"/>
+  <testcase name="shouldUpdateEmployee()" classname="test.EmployeeDaoTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

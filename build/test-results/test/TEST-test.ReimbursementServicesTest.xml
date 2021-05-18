@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.ReimbursementServicesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-17T00:43:51" hostname="MAESTRO" time="0.017">
+  <properties/>
+  <testcase name="shouldAddARequest()" classname="test.ReimbursementServicesTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

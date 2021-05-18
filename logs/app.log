@@ -1,0 +1,83 @@
+2021-05-16 15:34:11,963 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 15:34:22,449 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 15:36:08,226 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 15:36:32,888 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 15:39:28,688 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 16:33:49,779 INFO e.v.Login [qtp94345706-38] username=StevieB&password=happy
+2021-05-16 16:33:49,785 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 16:33:49,838 INFO e.c.EmployeeController [qtp94345706-38] Employee StevieB has logged in.
+2021-05-16 16:34:05,277 INFO e.c.ReimbursementRequestController [qtp94345706-24] New request inserted with ID#16
+2021-05-16 16:34:15,488 INFO e.v.Login [qtp94345706-24] username=m_test&password=m_test
+2021-05-16 16:34:15,488 INFO e.c.LoginController [qtp94345706-24] New login attempt for username: m_test
+2021-05-16 16:34:15,490 INFO e.c.ManagerController [qtp94345706-24] Manager: m_test has logged in.
+2021-05-16 17:08:11,647 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 17:24:38,896 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 17:31:09,043 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 17:32:31,855 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 17:35:26,678 INFO e.v.Login [qtp94345706-38] username=e_test&password=excited
+2021-05-16 17:35:26,684 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: e_test
+2021-05-16 17:35:33,029 INFO e.v.Login [qtp94345706-38] username=StevieB&password=happy
+2021-05-16 17:35:33,029 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 17:35:33,031 INFO e.c.EmployeeController [qtp94345706-38] Employee StevieB has logged in.
+2021-05-16 17:35:44,112 INFO e.c.ReimbursementRequestController [qtp94345706-37] New request inserted with ID#17
+2021-05-16 17:36:09,016 INFO e.v.Login [qtp94345706-37] username=m_test&password=m_Test
+2021-05-16 17:36:09,016 INFO e.c.LoginController [qtp94345706-37] New login attempt for username: m_test
+2021-05-16 17:36:13,901 INFO e.v.Login [qtp94345706-37] username=m_test&password=m_test
+2021-05-16 17:36:13,901 INFO e.c.LoginController [qtp94345706-37] New login attempt for username: m_test
+2021-05-16 17:36:13,903 INFO e.c.ManagerController [qtp94345706-37] Manager: m_test has logged in.
+2021-05-16 17:36:20,578 INFO e.c.ReimbursementRequestController [qtp94345706-41] Updated request with ID#16
+2021-05-16 17:36:21,056 INFO e.c.ReimbursementRequestController [qtp94345706-23] Updated request with ID#17
+2021-05-16 17:37:20,194 INFO e.v.Login [qtp94345706-25] username=StevieB&password=happy
+2021-05-16 17:37:20,194 INFO e.c.LoginController [qtp94345706-25] New login attempt for username: StevieB
+2021-05-16 17:37:20,196 INFO e.c.EmployeeController [qtp94345706-25] Employee StevieB has logged in.
+2021-05-16 17:37:42,119 INFO e.c.ReimbursementRequestController [qtp94345706-23] New request inserted with ID#18
+2021-05-16 17:38:28,907 INFO e.v.Login [qtp94345706-42] username=m_test&password=m_test
+2021-05-16 17:38:28,908 INFO e.c.LoginController [qtp94345706-42] New login attempt for username: m_test
+2021-05-16 17:38:28,909 INFO e.c.ManagerController [qtp94345706-42] Manager: m_test has logged in.
+2021-05-16 17:38:48,927 INFO e.c.ReimbursementRequestController [qtp94345706-20] Updated request with ID#18
+2021-05-16 17:39:21,292 INFO e.v.Login [qtp94345706-46] username=Stevie&password=happy
+2021-05-16 17:39:21,292 INFO e.c.LoginController [qtp94345706-46] New login attempt for username: Stevie
+2021-05-16 17:39:37,436 INFO e.v.Login [qtp94345706-46] username=StevieB&password=happy
+2021-05-16 17:39:37,436 INFO e.c.LoginController [qtp94345706-46] New login attempt for username: StevieB
+2021-05-16 17:39:37,438 INFO e.c.EmployeeController [qtp94345706-46] Employee StevieB has logged in.
+2021-05-16 17:39:46,436 INFO e.c.ReimbursementRequestController [qtp94345706-23] New request inserted with ID#19
+2021-05-16 17:40:04,148 INFO e.v.Login [qtp94345706-26] username=m_test&password=m_test
+2021-05-16 17:40:04,148 INFO e.c.LoginController [qtp94345706-26] New login attempt for username: m_test
+2021-05-16 17:40:04,149 INFO e.c.ManagerController [qtp94345706-26] Manager: m_test has logged in.
+2021-05-16 17:40:17,102 INFO e.c.ReimbursementRequestController [qtp94345706-23] Updated request with ID#19
+2021-05-16 19:39:14,311 INFO e.v.Login [qtp94345706-49] username=StevieB&password=happy
+2021-05-16 19:39:14,312 INFO e.c.LoginController [qtp94345706-49] New login attempt for username: StevieB
+2021-05-16 19:39:14,314 INFO e.c.EmployeeController [qtp94345706-49] Employee StevieB has logged in.
+2021-05-16 19:39:34,937 INFO e.c.ReimbursementRequestController [qtp94345706-21] New request inserted with ID#20
+2021-05-16 19:39:47,604 INFO e.v.Login [qtp94345706-49] username=m_test&password=m_test
+2021-05-16 19:39:47,604 INFO e.c.LoginController [qtp94345706-49] New login attempt for username: m_test
+2021-05-16 19:39:47,605 INFO e.c.ManagerController [qtp94345706-49] Manager: m_test has logged in.
+2021-05-16 19:40:17,680 INFO e.v.Login [qtp94345706-38] username=StevieB&password=happy
+2021-05-16 19:40:17,680 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 19:40:17,681 INFO e.c.EmployeeController [qtp94345706-38] Employee StevieB has logged in.
+2021-05-16 19:40:27,953 INFO e.c.ReimbursementRequestController [qtp94345706-21] New request inserted with ID#21
+2021-05-16 19:40:33,856 INFO e.v.Login [qtp94345706-21] username=m_test&password=m_test
+2021-05-16 19:40:33,857 INFO e.c.LoginController [qtp94345706-21] New login attempt for username: m_test
+2021-05-16 19:40:33,858 INFO e.c.ManagerController [qtp94345706-21] Manager: m_test has logged in.
+2021-05-16 19:42:02,914 INFO e.c.ReimbursementRequestController [qtp94345706-21] Updated request with ID#20
+2021-05-16 19:48:19,759 INFO e.c.ReimbursementRequestController [qtp94345706-48] Updated request with ID#21
+2021-05-16 19:49:47,123 INFO e.v.Login [qtp94345706-38] username=StevieB&password=happy
+2021-05-16 19:49:47,123 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 19:49:47,125 INFO e.c.EmployeeController [qtp94345706-38] Employee StevieB has logged in.
+2021-05-16 19:49:57,340 INFO e.c.ReimbursementRequestController [qtp94345706-21] New request inserted with ID#22
+2021-05-16 19:50:07,136 INFO e.c.ReimbursementRequestController [qtp94345706-38] New request inserted with ID#23
+2021-05-16 19:50:16,945 INFO e.v.Login [qtp94345706-38] username=m_test&password=m_test
+2021-05-16 19:50:16,945 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: m_test
+2021-05-16 19:50:16,946 INFO e.c.ManagerController [qtp94345706-38] Manager: m_test has logged in.
+2021-05-16 19:50:36,711 INFO e.c.ReimbursementRequestController [qtp94345706-61] Updated request with ID#23
+2021-05-16 19:50:43,968 INFO e.c.ReimbursementRequestController [qtp94345706-21] Updated request with ID#22
+2021-05-16 20:38:34,704 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 20:38:40,460 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 20:39:29,839 INFO e.v.Login [qtp94345706-38] username=StevieB&password=
+2021-05-16 20:39:29,844 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 20:39:34,055 INFO e.v.Login [qtp94345706-38] username=StevieB&password=happy
+2021-05-16 20:39:34,055 INFO e.c.LoginController [qtp94345706-38] New login attempt for username: StevieB
+2021-05-16 20:39:34,058 INFO e.c.EmployeeController [qtp94345706-38] Employee StevieB has logged in.
+2021-05-16 20:42:37,012 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 20:43:37,271 INFO e.c.EmployeeController [Test worker] Employee test has logged in.
+2021-05-16 20:43:51,351 INFO e.c.EmployeeController [Test worker] Employee test has logged in.

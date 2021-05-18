@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300"/>
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>New Reimbursement Request</title>
+</head>
+<body>
+    <h3>New Reimbursement Request</h3>
+    <form method="post" action="/employee/newRequest">
+        <input type="text" id="purpose" name="purpose" placeholder="Purpose"/>
+        <input type="number" id="expense" name="expense" min="0" placeholder="Expense"/>
+        <input type="hidden" id="username" name="username" value="USER"/>
+        <button type="submit">Send Request</button>
+    </form>
+    <br>
+    <a href="/employeeHome.html">Return to Home</a>
+    <script src="js/getUserData.js"></script>
+</body>
+</html>
