@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300"/>
+  <link rel="stylesheet" href="css/styles.css" />
+    <title>Requests by Employee</title>
+</head>
+<body>
+  <form action="/RequestsByEmployee" method="POST">
+    <label>Enter an Employee's Username</label>
+    <input type="text" name="username" id="username" value=""/>
+    <input type="hidden" id="currentUser" name="currentUser" value=""/>
+    <button type="submit">Search</button>
+  </form>
+  <br>
+  <a href="/managerHome.html">Return to Home</a>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300"/>
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>All Pending Requests</title>
+</head>
+<body>
+    <h3>All Pending Requests</h3>
+    <form action="/ResolveRequest" method="POST">
+        <table id="pendingRequestsTable"></table>
+
+        <input type="hidden" id="approvedReq" name="approvedReq" value="" />
+        <input type="hidden" id="deniedReq" name="deniedReq" value= ""/>
+        <input type="hidden" id="username" name="username" value="" />
+    </form>
+    <div id="banner"></div>
+    <br>
+    <a href="/managerHome.html">Return to Home</a>
+    <script src="js/viewPendingRequests.js"></script>
+</body>
+</html>
