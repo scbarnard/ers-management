@@ -22,3 +22,13 @@ List of features ready and TODOs for future development
 * Managers can view all employees in the system
 * Sends and receives JSON data to Javalin server
 * Persists data using MongoDB
+
+## Getting Started
+Run the main file from IntelliJ or IDE of preference, then go to "localhost:7777/" in a browser of your choice.
+
+## Usage
+
+## Contributors
+Stephen Barnard
+
+## License
