@@ -19,6 +19,6 @@ List of features ready and TODOs for future development
 * Employees can submit a new reimbursement request
 * Managers can view and approve/deny all pending requests
 * Managers can search on an employee's username to view their request history.
-* Managers can 
+* Managers can view all employees in the system
 * Sends and receives JSON data to Javalin server
 * Persists data using MongoDB
